@@ -1,0 +1,6 @@
+node_modules
+
+wp-content/themes/*
+!wp-content/themes/index.php
+!wp-content/themes/advocatus-by-berdnikov-dmytro
+!wp-content/themes/twentyseventeen
